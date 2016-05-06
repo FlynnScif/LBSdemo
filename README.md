@@ -1,3 +1,3 @@
 # LBSdemo
 
-高德LBS课程 课堂练习
+高德LBS教程 练习
